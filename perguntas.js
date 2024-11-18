@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Robótica',
+    'O que é o arduino?',
+    'É uma plataforma que possibilita o desenvolvimento de projetos eletrônicos.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'História',
+    'Qual tempo de duração da Segunda Guerra Mundial?',
+    '6 anos, de 1939 até 1945.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Matemática',
+    'Qual fórmula de equação do segundo grau?',
+    'ax²+bx+c=0'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Sociologia',
+    'Quem é Karl Marx?',
+    'Filósofo e sociólogo alemão, fundador do socialismo científico e desenvolvedor de uma teoria comunista que modificou os estudos sociológicos.'
 )
